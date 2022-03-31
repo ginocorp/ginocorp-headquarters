@@ -24,7 +24,7 @@
 
 ## Usage
 
-* [Code](https://github.com/ginocorp/ginocorp-socialnetwork)
+* [Code](https://github.com/ginocorp/ginocorp-headquarters)
 * [Walkthrough Video]()
 * Node.js
 * MySQL
