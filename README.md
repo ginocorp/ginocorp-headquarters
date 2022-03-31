@@ -2,7 +2,7 @@
 
 ## Description
 
-* This is a practicle use of the command-line to view, edit, and add emloyees, departments, and managers.
+* This is a practicle use of the command-line to view, edit, and add emloyees, departments, and managers by using the inquirer package and mysql schemas and seeding.
 
 ## Table of Content
 
@@ -25,7 +25,7 @@
 ## Usage
 
 * [Code](https://github.com/ginocorp/ginocorp-headquarters)
-* [Walkthrough Video]()
+* [Walkthrough Video](https://drive.google.com/file/d/1Eq4jgwe3zfTv12b71WiH2QiJnHBowWtv/view)
 * Node.js
 * MySQL
 * Inquirer package
